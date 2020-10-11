@@ -28,8 +28,6 @@ in this repository we will explain how to use markdown syntax.
 
 ![from Internet](https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png)
 
-![Local Image](https://raw.githubusercontent.com/vengotimahesh143/FirstProject/master/logo.jpg)
-
 
 [Google](https://www.google.com)
 
